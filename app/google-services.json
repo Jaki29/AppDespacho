@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317126294363",
+    "project_id": "appdespacho-74494",
+    "storage_bucket": "appdespacho-74494.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317126294363:android:bc2678fe0e1d113576f87e",
+        "android_client_info": {
+          "package_name": "com.jakandra.appdespacho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW3cSWeIFndn1fRJ6y0G7ulwkyTd44K0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
